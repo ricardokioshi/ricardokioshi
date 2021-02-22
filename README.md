@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [Techdo](https://techdo.com.br)
+- 🔭 I’m currently working on [Kubotec] Partner of (https://techdo.com.br)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ricardokioshi)
 
