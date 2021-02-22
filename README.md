@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear, I'm Ricardo Kubo</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">A System Analyst and Developer focused on Data Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardokioshi" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on [Kubotec] Partner of (https://techdo.com.br)
