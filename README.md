@@ -2,15 +2,13 @@
 <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working on [Techdo](https://techdo.com.br)
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
-
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ricardokioshi)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
-- 📫 How to reach me **maykbrito@gmail.com**
+- 📫 How to reach me **kubodeveloper@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
