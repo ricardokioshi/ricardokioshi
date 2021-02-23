@@ -2,7 +2,7 @@
 <h3 align="center">A System Analyst and Developer focused on Data Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardokioshi" alt="ricardokioshi" /> </p>
 
-- 🔭 I’m currently working on [Kubotec] Partner of (https://techdo.com.br)
+- 🔭 I’m currently working on [Kubotec] Partner of Techdo (https://techdo.com.br)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ricardokioshi)
 
@@ -28,9 +28,8 @@
 <a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
+
+
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
