@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **kubodeveloper@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
-
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
