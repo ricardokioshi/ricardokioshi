@@ -2,7 +2,7 @@
 <h3 align="center">A System Analyst and Developer focused on Data Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardokioshi" alt="ricardokioshi" /> </p>
 
-- 🔭 I’m currently working on [Kubotec] 
+- 🔭 I’m currently working on [NETSX] 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ricardokioshi)
 
