@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ricardokioshi)
 
-- 💬 Ask me about **Totvs Protheus, ADVPL, SQL ,PHP, Python ,HTML , CSS, JavaScript **
+- 💬 Ask me about **Totvs Protheus,ADVPL ,VTEX IO,SQL ,PHP, Python ,HTML ,CSS , JavaScript **
 
 - 📫 How to reach me **kubodeveloper@gmail.com**
 
